@@ -32,3 +32,6 @@ A wearable assistive device built using Raspberry Pi and sensors to help visuall
 2. Ultrasonic sensors measure distance; if an object is within 50cm, the corresponding motor vibrates.
 3. IR sensors detect close obstacles like curbs or steps.
 4. Each sensor maps to a motor, providing directional haptic feedback.
+---
+
+**Built by Ruthvik Kanukuntla & Team**
